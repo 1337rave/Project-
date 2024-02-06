@@ -1,0 +1,4 @@
+Wallet: Wallet 1, Balance: 950
+Category: Groceries, Amount: 50
+Wallet: Wallet 2, Balance: 1900
+Category: Entertainment, Amount: 100
